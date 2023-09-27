@@ -76,7 +76,7 @@ google-codelab-step pre>code {
 }
 
 google-codelab-step code em {
-    color: #97C8F2
+    color: #75C0E0
 }
 
 google-codelab-step pre .str,
@@ -332,7 +332,7 @@ google-codelab-step .instructions paper-button.colored {
 }
 
 google-codelab-step .instructions paper-button.red {
-    background-color: #D93025
+    background-color: #257fd9
 }
 
 google-codelab-step .instructions iron-icon {
@@ -511,7 +511,7 @@ google-codelab-survey .option-text {
     height: 13px;
     width: 13px;
     background-color: #fff;
-    border: 2px solid #3fb541;
+    border: 2px solid #b59a3f;
     border-radius: 50%
 }
 
@@ -576,7 +576,7 @@ google-codelab #codelab-title {
     top: 0;
     left: 0;
     width: 100%;
-    background: #e6e0e0db;
+    background: #eaeaeadb;
     box-shadow: 0px 1px 2px 0px rgba(60, 64, 67, 0.3), 0px 2px 6px 2px rgba(60, 64, 67, 0.15);
     color: #3C4043;
     display: flex;
@@ -627,7 +627,7 @@ google-codelab #codelab-nav-buttons #arrow-back,
 google-codelab #codelab-nav-buttons #menu {
     display: flex;
     text-decoration: none;
-    color: #3eb854;
+    color: #101110;
     width: 40px;
     height: 40px;
     justify-content: center;
@@ -673,8 +673,8 @@ google-codelab #fabs .spacer {
     padding-top: 6px;
     pointer-events: initial;
     text-transform: none;
-    background: #ca1e1e;
-    color: #1de81a;
+    background: #1A73E8;
+    color: #ffffff;
     transform: scale(1, 1);
     transition: transform 300ms ease-in-out;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
@@ -684,7 +684,7 @@ google-codelab #fabs .spacer {
 /*boton de siguiente*/ 
 #next-step {
     color: #fff;
-    background: #e8541a
+    background: #9f2241
 }
 
 #done {
@@ -697,7 +697,7 @@ google-codelab #fabs a[disappear] {
 }
 /*boton de finalizar*/
 #done {
-    background: #d648a9
+    background: #0f9d58
 }
 
 google-codelab #drawer .codelab-time-container {
@@ -727,7 +727,7 @@ google-codelab #drawer {
     z-index: 100;
     display: flex;
     flex-direction: column;
-    background: #5e8ebdd6
+    background: #e5e7eaef
 }
 
 google-codelab #drawer .steps {
@@ -803,7 +803,7 @@ google-codelab #drawer ol li .step:before {
     width: 26px;
     min-width: 26px;
     color: #fff;
-    background: #ae5660c5;
+    background: #d46a76c5;
     border-radius: 50%;
     text-align: center;
     height: 26px;
